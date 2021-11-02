@@ -1,0 +1,27 @@
+.about-us {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #00baba;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.content__text {
+  max-width: 499px;
+  p {
+    color: #ffffff;
+  }
+}
+
+.content_about-us {
+  margin-left: 96px;
+}
+
+.content__title {
+  margin-bottom: 34px;
+  // padding-top: 180px;
+  font-size: 90px;
+  line-height: 27px;
+  font-weight: 700;
+  color: #ffffff;
+}
